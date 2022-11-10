@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary-color: #e2e9eb;
+    --secondary-color: #024e76;
+    --tertiary-color: #116e79;
+  }
+  
+  body {
+    color: var(--tertiary-color);
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+
+
+.header .logo img{
+    height: 6rem;
+}
